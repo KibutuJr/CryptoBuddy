@@ -268,11 +268,7 @@ Please ensure any new code is PEP 8-compliant and includes docstrings or comment
 License
 This project is released under the MIT License. Feel free to copy, modify, and distribute under the terms of MIT.
 
-## Contact / Support
-
 Authors:
-
-## GitHub Issues: If you encounter bugs or have feature requests, please file an issue in this repository.
 
 ## Thank you for using CryptoBuddy!
 
